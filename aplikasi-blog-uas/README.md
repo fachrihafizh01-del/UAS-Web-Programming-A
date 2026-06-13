@@ -1,7 +1,7 @@
 # Aplikasi Blog UAS
 
-Nama: isi nama lengkap  
-NIM: isi NIM
+Nama: Muhammad Fachri Hafizh Saleh 
+NIM: 240605110175
 
 Proyek ini adalah aplikasi blog Laravel untuk UAS Pemrograman Web. Aplikasi memiliki CMS untuk mengelola penulis, kategori artikel, dan artikel, serta halaman pengunjung publik yang menampilkan 5 artikel terbaru, filter kategori, detail artikel, dan artikel terkait.
 
@@ -72,19 +72,5 @@ Password: password
 - Dashboard CMS: `http://localhost:8000/dashboard`
 - Detail artikel: `http://localhost:8000/baca-artikel/{id}`
 
-## Catatan Pengumpulan
-
-Repository GitHub harus bersifat publik dengan nama `aplikasi-blog-[nim]`. Jangan unggah file `.env`. Sertakan tautan video YouTube demonstrasi di README repository.
-
-## Alur Video Demonstrasi
-
-1. Tampilkan halaman CMS/admin.
-2. Demonstrasikan create, update, delete penulis.
-3. Demonstrasikan create, update, delete kategori artikel.
-4. Demonstrasikan create, update, delete artikel.
-5. Buka halaman utama pengunjung.
-6. Klik salah satu kategori di widget.
-7. Klik tombol `Kelanjutannya`.
-8. Pastikan halaman detail tampil benar.
-9. Klik artikel terkait.
-10. Klik `Kembali ke Beranda`.
+Tautan Video Demonstrasi
+https://youtu.be/jgD2dhS3MSY?si=PpCE6N1P19K5leGY
